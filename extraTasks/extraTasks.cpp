@@ -1,7 +1,12 @@
-#include <iostream>
-using namespace std;
+#include "first_task.h"
+#include "second_task.h"
+#include "third_task.h"
+#include "fourth_task.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	ft::run();
+	st::run();
+	tt::run();
+	frt::run();
 }

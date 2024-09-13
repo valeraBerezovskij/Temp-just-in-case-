@@ -128,6 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="extraTasks.cpp" />
+    <ClCompile Include="first_task.cpp" />
+    <ClCompile Include="fourth_task.cpp" />
+    <ClCompile Include="second_task.cpp" />
+    <ClCompile Include="third_task.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="first_task.h" />
+    <ClInclude Include="fourth_task.h" />
+    <ClInclude Include="second_task.h" />
+    <ClInclude Include="third_task.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

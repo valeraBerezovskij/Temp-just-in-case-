@@ -18,5 +18,31 @@
     <ClCompile Include="extraTasks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="first_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="second_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="third_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fourth_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="first_task.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="second_task.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="third_task.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fourth_task.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
